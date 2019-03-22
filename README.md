@@ -1,7 +1,7 @@
 # Reading Time Jekyll Plugin
 An elegent estimated reading time calculator for Jekyll
 
-![Screenshot](https://raw.githubusercontent.com/arnabwahid/reading-time-jekyll-plugin/master/screenshot.png?token=ACKX5OOFES2GFYM6B2OH7UK5ENEOW)
+![Screenshot](./screenshot.png)
 
 ## Installation
 
